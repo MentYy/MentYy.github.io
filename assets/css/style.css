@@ -528,6 +528,9 @@ a:visited{
 }
 
 /* For About Section */
+#about{
+	margin-top:0.5px
+}
 
 .about-content{
 	margin-top:40px;
